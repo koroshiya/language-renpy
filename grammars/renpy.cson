@@ -1,7 +1,7 @@
 'scopeName': 'source.renpy'
 'name': 'Ren\'Py'
 'fileTypes': [
-  'rpy'
+  'rpy', 'rpym'
 ]
 'firstLineMatch': '^#!/.*\\brenpy\\b'
 'patterns': [
