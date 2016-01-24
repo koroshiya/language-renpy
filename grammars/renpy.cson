@@ -933,6 +933,9 @@
       }
     ]
   }
+  {
+    "include": "source.python"
+  }
 ]
 'repository':
   'builtin_exceptions':
